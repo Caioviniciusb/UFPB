@@ -1,2 +1,2 @@
 # UFPB
- Tarefas e Projetos da UFPB
+ Tarefas da discicplina de Programação Estruturada
