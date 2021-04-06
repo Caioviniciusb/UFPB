@@ -11,11 +11,9 @@ int main(void){
 
     if (hora > 12) {
         hora -= 12;
+
     }
-    else if (hora == 00) {
-        hora += 12;
-    }
-    printf("\nA hora em formato de 12 horas é %02d:%d.\n", hora, min);
+    printf("\nA hora em formato de 12 horas é %.2d:%.2d\n", hora, min);
 
     return 0;
 }
