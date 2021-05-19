@@ -1,3 +1,7 @@
+/****************************************************
+*Transformando o formato da hora de 24 para 12 horas.
+*****************************************************/
+
 #include <stdio.h>
 #include <locale.h>
 

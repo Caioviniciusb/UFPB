@@ -1,3 +1,7 @@
+/**********************
+*Invertendo os números.
+***********************/
+
 #include<stdio.h>
 #include<locale.h>
 int main(void) {

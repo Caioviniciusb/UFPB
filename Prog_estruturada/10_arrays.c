@@ -1,4 +1,6 @@
-/*Programa para checar se 2 palavras digitadas são ou não anagramas.*/
+/******************************************************************
+*Programa para checar se 2 palavras digitadas são ou não anagramas.
+*******************************************************************/
 
 #include <stdio.h>
 #include <locale.h>

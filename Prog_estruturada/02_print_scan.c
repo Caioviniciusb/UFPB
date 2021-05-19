@@ -1,3 +1,7 @@
+/****************
+*Soma de frações.
+*****************/
+
 #include<stdio.h>
 #include<locale.h>
 

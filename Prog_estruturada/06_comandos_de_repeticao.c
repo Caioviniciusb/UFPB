@@ -1,3 +1,7 @@
+/*********************************************************
+*Programa checa qual o maior número digitado pelo usuário.
+**********************************************************/
+
 #include <stdio.h>
 #include <locale.h>
 

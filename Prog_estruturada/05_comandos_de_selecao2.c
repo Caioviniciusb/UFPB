@@ -1,3 +1,7 @@
+/*********************************
+*Escrevendo um número por extenso.
+**********************************/
+
 #include<stdio.h>
 #include<locale.h>
 
@@ -13,7 +17,6 @@ int main(void){
     uni = n % 10;
 
     printf("\nNúmero digitado por extenso: ");
-
 
     if (dez >= 20){
         switch (dez){

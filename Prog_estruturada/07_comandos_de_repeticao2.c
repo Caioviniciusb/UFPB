@@ -1,3 +1,7 @@
+/************************
+*Calculando o valor de e
+*************************/
+
 #include <stdio.h>
 #include <locale.h>
 
